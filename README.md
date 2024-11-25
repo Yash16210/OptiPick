@@ -67,7 +67,11 @@ Welcome to **OptiPick**, your ultimate product comparison platform! Whether you'
 ## 🌟 **Demo Preview**
 > 🖼️ Experience OptiPick through interactive screenshots and videos.
 
-![Alt text](https://i.postimg.cc/Vk6X7KNY/IMG1.png)
+![Alt text](https://i.postimg.cc/W4KNH6r8/IMG2.png)
+
+![Alt text](https://i.postimg.cc/2SkSb5rQ/IMG1.png)
+
+![Alt text](https://i.postimg.cc/tTxqQZNj/IMG3.png)
 
 ---
 
