@@ -1,6 +1,6 @@
-# 🌟 **VersusHub** – Compare, Choose, and Buy Smarter! 🌟
+# 🌟 **OptiPick** – Compare, Choose, and Buy Smarter! 🌟
 
-Welcome to **VersusHub**, your ultimate product comparison platform! Whether you're looking to buy the latest **mobile**, explore **laptops**, or compare the best **bikes**, we’ve got you covered with clear, concise, and intuitive comparisons. 🚀
+Welcome to **OptiPick**, your ultimate product comparison platform! Whether you're looking to buy the latest **mobile**, explore **laptops**, or compare the best **bikes**, we’ve got you covered with clear, concise, and intuitive comparisons. 🚀
 
 ---
 
@@ -48,14 +48,14 @@ Welcome to **VersusHub**, your ultimate product comparison platform! Whether you
 
 ---
 
-## 🔍 **Why Choose VersusHub?**
+## 🔍 **Why Choose OptiPick?**
 - **Streamlined Decision-Making**: Skip the hassle of browsing multiple product pages. 🎉
 - **Time Saver**: Get all the information you need in one place. ⏳
 - **Visual Comparisons**: Understand key features at a glance with engaging visuals and charts. 💡
 
 ---
 
-## 📚 **How to Use VersusHub**
+## 📚 **How to Use OptiPick**
 1. Visit our website.
 2. Select your preferred category: **Mobiles**, **Bikes**, or **Laptops**.
 3. Choose the products you wish to compare.
@@ -65,14 +65,14 @@ Welcome to **VersusHub**, your ultimate product comparison platform! Whether you
 ---
 
 ## 🌟 **Demo Preview**
-> 🖼️ Experience VersusHub through interactive screenshots and videos.
+> 🖼️ Experience OptiPick through interactive screenshots and videos.
 
 ![Alt text](https://i.postimg.cc/Vk6X7KNY/IMG1.png)
 
 ---
 
 ## 👥 **Contributing**
-We welcome contributions to improve VersusHub. Follow these steps:
+We welcome contributions to improve OptiPick. Follow these steps:
 1. Fork the repository.
 2. Create your feature branch: `git checkout -b feature/AmazingFeature`.
 3. Commit your changes: `git commit -m 'Add some AmazingFeature'`.
@@ -90,8 +90,8 @@ We welcome contributions to improve VersusHub. Follow these steps:
 ## 📬 **Contact Us**
 Have questions or suggestions? Feel free to reach out:
 - 📧 Email: Yash.ChaudharyUPES200584@gmail.com
-- 🌐 Website: [Versushub](https://versushubs.surge.sh)
+- 🌐 Website: [OptiPick](https://versushubs.surge.sh)
 
 ---
 
-**Start comparing today!** ✨ Your smarter shopping experience begins here. 
+**Start comparing today!** ✨ Your smarter shopping experience begins here.
