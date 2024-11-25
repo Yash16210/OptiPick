@@ -94,7 +94,7 @@ We welcome contributions to improve OptiPick. Follow these steps:
 ## 📬 **Contact Us**
 Have questions or suggestions? Feel free to reach out:
 - 📧 Email: Yash.ChaudharyUPES200584@gmail.com
-- 🌐 Website: [OptiPick](https://versushubs.surge.sh)
+- 🌐 Website: [OptiPick](https://opti-pick.surge.sh)
 
 ---
 
